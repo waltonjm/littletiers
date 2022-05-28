@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kogsio/littletiers.git"
+    "url": "git+https://git.heroku.com/morning-shelf-95014.git"
   },
   "author": "abel@mit.edu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kogsio/littletiers/issues"
+    "url": "https://git.heroku.com/morning-shelf-95014"
   },
-  "homepage": "https://github.com/kogsio/littletiers#readme",
+  "homepage": "https://git.heroku.com/morning-shelf-95014#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
